@@ -1,0 +1,11 @@
+{
+  "business": "Miva Pastry Co",
+  "type": "bakery",
+  "slug": "miva-pastry-co",
+  "files": [
+    "index.html",
+    "style.css",
+    "script.js"
+  ],
+  "model": "llama-3.3-70b-versatile"
+}
